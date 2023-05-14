@@ -1,0 +1,15 @@
+{
+  "name": "discord-simple-bot",
+  "version": "2.3.5-SNAPSHOT",
+  "description": "Simple discord bot module for discordJs v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DiscordDev",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^14.11.0"
+  }
+}
